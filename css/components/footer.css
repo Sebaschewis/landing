@@ -1,0 +1,20 @@
+.footer-content {
+  background-color: rgb(42, 41, 41);
+  height: 150px;
+  text-align: center;
+  align-items: center;
+  padding-top: 80px ;
+  margin: 0;
+}
+
+.footer-content p {
+  color: rgb(127, 127, 127);
+}
+
+.footer-content a {
+text-align: center;
+color: rgb(83, 231, 137);
+font-size: 30px;
+width: 20px;
+margin: 0 2px;
+}
